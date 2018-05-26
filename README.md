@@ -1,6 +1,6 @@
 # Poopy Taters
 
-An `hello world` sandbox for exploring [react](https://reactjs.org/.
+An `hello world` sandbox for exploring [react](https://reactjs.org).
 
 ## Tests
 
